@@ -8,3 +8,6 @@ The code in this repo is unable to work by just running docker-compose. Specific
 https://github.com/yechuan51/Wordpress/blob/main/nginx/nginx/conf.d/default.conf
 
 This file is meant to be copied over onto the host volume mount location. 
+
+# End result:
+https://yechuan51.com
