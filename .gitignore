@@ -1,0 +1,6 @@
+/nginx/data
+/nginx/private
+
+!/nginx/nginx
+/nginx/nginx/*
+!/nginx/nginx/conf.d
